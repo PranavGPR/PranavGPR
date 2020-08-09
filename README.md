@@ -4,6 +4,6 @@
 
  I'm a Web Developer and Programmer 👨🏻‍💻
 
- 🌱 I’m currently learning Advanced CSS <br>
- 👯 Team: @sank2000, @KrishnaMoorthy12, @Lakshmi. <br>
+ 🌱 I’m currently learning Progressive Web Apps(PWA) Development <br>
+ 👯 Team: <a href="#">@sank2000</a>, @KrishnaMoorthy12, @Lakshmi. <br>
  💬 Ask me anything in Twitter at @pranav_gpr !

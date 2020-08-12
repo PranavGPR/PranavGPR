@@ -9,7 +9,7 @@
  💬 Ask me anything in Twitter at [PranavGPR!](https://twitter.com/pranav_gpr "Twitter account of mee!!!")<br>
  ✌🏻 Follow me on Instagram on [PranavGPR!](https://instagram.com/i_m_mystrix "Insta account of mee!!!")
 
- 'Routine'
+ `Routine`
  
  ```javascript
  

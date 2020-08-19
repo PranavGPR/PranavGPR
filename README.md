@@ -26,4 +26,4 @@
 ***
 
 
-![PranavGPR's github stats](https://github-readme-stats.vercel.app/api?username=PranavGPR&count_private=true)
+![PranavGPR's github stats](https://github-readme-stats.vercel.app/api?username=PranavGPR&count_private=true)  ![PranavGPR's github stats](https://github-readme-stats.vercel.app/api?username=PranavGPR&show_icons=true&theme=radical)

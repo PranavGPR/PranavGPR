@@ -24,5 +24,5 @@
 >Keep Learning always
 
 ***
-
-![PranavGPR's github stats](https://github-readme-stats-git-master.pranavgpr.vercel.app/api?username=PranavGPR&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats-git-master.pranavgpr.vercel.app/api/top-langs/?username=PranavGPR&layout=compact)](https://github.com/PranavGPR/github-readme-stats)
+<a>![PranavGPR's github stats](https://github-readme-stats-git-master.pranavgpr.vercel.app/api?username=PranavGPR&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats-git-master.pranavgpr.vercel.app/api/top-langs/?username=PranavGPR&layout=compact)](https://github.com/PranavGPR/github-readme-stats)
+</a>

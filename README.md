@@ -26,4 +26,4 @@
 ***
 
 
-![PranavGPR's github stats](https://github-readme-stats.vercel.app/api?username=PranavGPR&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavGPR&layout=compact)](https://github.com/PranavGPR/github-readme-stats)
+![PranavGPR's github stats](https://github-readme-stats.vercel.app/api?username=PranavGPR&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavGPR&layout=compact)](https://github.com/PranavGPR/github-readme-stats)

@@ -24,3 +24,6 @@
 >Keep Learning always
 
 ***
+
+
+[![PranavGPR's github stats](https://github-readme-stats.vercel.app/api?username=PranavGPR)](https://github.com/PranavGPR/github-readme-stats)

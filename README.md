@@ -19,12 +19,6 @@
    code();
  }
  ```
- ---
- 
->Keep Learning always
-
-***
-
 
 ### Connect with me
 

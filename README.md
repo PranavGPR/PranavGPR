@@ -26,4 +26,4 @@
 ***
 
 
-[![PranavGPR's github stats](https://github-readme-stats.vercel.app/api?username=PranavGPR)](https://github.com/PranavGPR/github-readme-stats)
+[![PranavGPR's github stats](https://github-readme-stats.vercel.app/api?username=PranavGPR)](https://github.com/PranavGPR/github-readme-stats)  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)

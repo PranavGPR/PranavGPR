@@ -26,4 +26,4 @@
 ***
 
 
-![PranavGPR's github stats](https://github-readme-stats.vercel.app/api?username=PranavGPR&show_icons=true&theme=tokyonight)
+![PranavGPR's github stats](https://github-readme-stats.vercel.app/api?username=PranavGPR&show_icons=true&theme=tokyonight)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PranavGPR&repo=github-readme-stats)](https://github.com/PranavGPR/github-readme-stats)

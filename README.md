@@ -5,8 +5,8 @@
 ## I'm a Web Developer and a Programmer 👨🏻‍💻
 
  - 🌱 Learning ReactJS⚛<br>
- - 👯 Team: [sank2000](https://github.com/sank2000 "GitHub of Santhosh")  , [Krish M](https://github.com/KrishnaMoorthy12 "GitHub of KrishnaMoorthy") , [Lakshmi]     
  (https://github.com/Lakshmi2k1 "GitHub of Lakshmi")<br>
+ - 👯 Team: [sank2000](https://github.com/sank2000 "GitHub of Santhosh")  , [Krish M](https://github.com/KrishnaMoorthy12 "GitHub of KrishnaMoorthy") , [Lakshmi]
  - 😁 Love to Cook and Code 👨🏻‍💻 <br>
  - 👯 Looking to collaborate on Open Source Projects 💖<br>
  - 🤔 In need of help with my career 🏢<br>

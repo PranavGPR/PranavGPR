@@ -8,16 +8,16 @@
  👯 Team: [sank2000](https://github.com/sank2000 "GitHub of Santhosh")  , [Krish M](https://github.com/KrishnaMoorthy12 "GitHub of KrishnaMoorthy") , [Lakshmi](https://github.com/Lakshmi2k1 "GitHub of Lakshmi")<br>
  😁 Love to Cook and Code 👨🏻‍💻 <br>
  😜 Pronouns: GPR<br>
- 💭 Contact me: [My email ID here!](mailto:pranav.gnanasekar23@gmail.com)
+ 💭 Contact me: [My email ID here!](https://mail.google.com/mail/u/0/#inbox?compose=new "Mail to Pranav")
 
  `Routine`
  
  ```javascript
  
  while(alive) {
-   eat();
-   sleep();
-   code();
+   eat()
+   sleep()
+   code()
  }
  ```
  

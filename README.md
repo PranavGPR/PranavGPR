@@ -4,11 +4,11 @@
 
  I'm a Web Developer and a Programmer 👨🏻‍💻
 
- 🌱 Currently learning ReactJS☸<br>
+ 🌱 Learning ReactJS⚛<br>
  👯 Team: [sank2000](https://github.com/sank2000 "GitHub of Santhosh")  , [Krish M](https://github.com/KrishnaMoorthy12 "GitHub of KrishnaMoorthy") , [Lakshmi]     (https://github.com/Lakshmi2k1 "GitHub of Lakshmi")<br>
  😁 Love to Cook and Code 👨🏻‍💻 <br>
- 👯 I’m looking to collaborate on many Open Source Projects 💖
- 🤔 I’m looking for help with career 🏢
+ 👯 Looking to collaborate on Open Source Projects 💖<br>
+ 🤔 In need of help with my career 🏢<br>
  😜 Pronouns: GPR<br>
  💭 Contact me: [Through Email](mailto:pranav.gnanasekar23@gmail.com "Mail to Pranav")
 

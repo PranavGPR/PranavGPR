@@ -13,7 +13,7 @@
  - 😜 Pronouns: GPR<br>
  - 💭 Contact me: [Through Email](mailto:pranav.gnanasekar23@gmail.com "Mail to Pranav")
 
- `Routine`
+ `Routine:`
  
  ```javascript
  
@@ -30,6 +30,7 @@
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instagram] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 ### Languages and Libraries
 
@@ -76,6 +77,6 @@
 <img align="center" src = "https://github-readme-stats-git-master.pranavgpr.vercel.app/api/top-langs/?username=PranavGPR&layout=compact" />
 </a>
 
-
+[LinkedIn]: https://www.linkedin.com/in/akrishnamoorthy007/
 [twitter]: https://twitter.com/pranav_gpr
 [Instagram]: https://instagram.com/i_m_mystrix

@@ -76,6 +76,6 @@
 <img align="center" src = "https://github-readme-stats-git-master.pranavgpr.vercel.app/api/top-langs/?username=PranavGPR&layout=compact" />
 </a>
 
-[LinkedIn]: https://www.linkedin.com/in/akrishnamoorthy007/
+[LinkedIn]: https://www.linkedin.com/in/pranav-g-7122111b5/
 [twitter]: https://twitter.com/pranav_gpr
 [Instagram]: https://instagram.com/i_m_mystrix

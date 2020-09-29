@@ -4,7 +4,7 @@
 
 ## I'm a Web Developer and a Programmer 👨🏻‍💻
 
- - 🌱 Learning ReactJS⚛<br>
+ - 🌱 Learning Typescript<br>
  - 👯 Team: [sank2000](https://github.com/sank2000 "GitHub of Santhosh")  , [Krish M](https://github.com/KrishnaMoorthy12 "GitHub of KrishnaMoorthy") , [Lakshmi](https://github.com/Lakshmi2k1 "GitHub of Lakshmi")<br>
  - 😁 Love to Cook and Code 👨🏻‍💻 <br>
  - 👯 Looking to collaborate on Open Source Projects 💖<br>
@@ -68,7 +68,7 @@
 
 ***
 
- <a href="#stats">
+<a href="#stats">
 <img align="center" src="https://github-readme-stats-git-master.pranavgpr.vercel.app/api?username=PranavGPR&show_icons=true&theme=tokyonight" />
 </a>
   

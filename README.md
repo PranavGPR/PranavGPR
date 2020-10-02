@@ -12,14 +12,12 @@
  - 😜 Pronouns: GPR<br>
  - 💭 Contact me: [Through Email](mailto:pranav.gnanasekar23@gmail.com "Mail to Pranav")
 
- `Routine:`
- 
  ```javascript
  
- while(alive) {
-   eat()
-   sleep()
-   code()
+ while (alive) {
+   eat ()
+   sleep ()
+   code ()
  }
  ```
  

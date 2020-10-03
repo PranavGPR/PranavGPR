@@ -58,7 +58,6 @@
 <img align="left" alt="netlify" width="40px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
 <img align="left" alt="figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt="figma" width="40px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
-<img align="left" alt="figma" width="40px" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" />
 <img align="left" alt="figma" width="40px" src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" />
 <img align="left" alt="figma" width="40px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/codesandbox.svg" />
 <br />

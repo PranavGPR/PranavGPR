@@ -62,7 +62,6 @@
 <img align="left" alt="figma" width="40px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/codesandbox.svg" />
 <br />
 <br />
-<hr />
 
 ***
 

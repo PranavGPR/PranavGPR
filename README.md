@@ -6,11 +6,10 @@
 
   <img align="right" alt="GIF" src="https://github.com/PranavGPR/PranavGPR/blob/master/code.gif?raw=true" width="500" height="320" />
   
- - 🌱 Learning Typescript<br>
- - 👯 Team: [sank2000](https://github.com/sank2000 "GitHub of Santhosh")  , [Krish M](https://github.com/KrishnaMoorthy12 "GitHub of KrishnaMoorthy") , [Lakshmi](https://github.com/Lakshmi2k1 "GitHub of Lakshmi")<br>
+ - 🌱 Concentrating on backend stuffs<br>
+ - 👯 Team: [sank2000](https://github.com/sank2000 "GitHub of Santhosh")  , [Krish M](https://github.com/KrishnaMoorthy12 "GitHub of KrishnaMoorthy")<br>
  - 😁 Love to Cook and Code 👨🏻‍💻 <br>
  - 👯 Looking to collaborate on Open Source Projects 💖<br>
- - 🤔 In need of help in my career 🏢<br>
  - 😜 Pronouns: GPR<br>
  - 💭 Contact me: [Through Email](mailto:pranav.gnanasekar23@gmail.com "Mail to Pranav")
 

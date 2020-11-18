@@ -10,7 +10,7 @@
  - 👯 Team: [sank2000](https://github.com/sank2000 "GitHub of Santhosh")  , [Krish M](https://github.com/KrishnaMoorthy12 "GitHub of KrishnaMoorthy")<br>
  - 😁 Love to Cook and Code 👨🏻‍💻 <br>
  - 👯 Looking to collaborate on Open Source Projects 💖<br>
- - 😜 Pronouns: GPR<br>
+ - 😜 Pronouns: he/his<br>
  - 💭 Contact me: [Through Email](mailto:pranav.gnanasekar23@gmail.com "Mail to Pranav")
 
  ```javascript

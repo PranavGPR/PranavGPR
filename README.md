@@ -77,6 +77,10 @@
 <a href="#stats">
 <img align="center" src = "https://github-readme-stats-git-master.pranavgpr.vercel.app/api/top-langs/?username=PranavGPR&layout=compact" />
 </a>
+<br />
+<br />
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=PranavGPR.PranavGPR)
 
 [LinkedIn]: https://www.linkedin.com/in/pranav-g-7122111b5/
 [twitter]: https://twitter.com/pranav_gpr

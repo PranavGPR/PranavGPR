@@ -6,10 +6,10 @@
 
   <img align="right" alt="GIF" src="https://github.com/PranavGPR/PranavGPR/blob/master/code.gif?raw=true" width="500" height="320" />
   
- - 🌱 Concentrating on backend stuffs<br>
- - 👯 Team: [sank2000](https://github.com/sank2000 "GitHub of Santhosh")  , [Krish M](https://github.com/KrishnaMoorthy12 "GitHub of KrishnaMoorthy")<br>
+🔭 I’m currently looking for some interesting projects to work!<br>
+ - 🌱 Currently learning Next.js<br>
  - 😁 Love to Cook and Code 👨🏻‍💻 <br>
- - 🤔 I’m looking for help with career 🏢
+ - 🤔 Looking for help with career 🏢<br>
  - 👯 Looking to collaborate on Open Source Projects 💖<br>
  - 😜 Pronouns: He/ Him<br>
  - 💭 Ask me anything: [Through Email](mailto:pranav.gnanasekar23@gmail.com "Mail to Pranav")

@@ -35,9 +35,10 @@
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="40px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" />
 <img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-<img align="left" alt="NodeJS" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <img align="left" alt="TS" width="40px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
+<img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img align="left" alt="NextJS" width="35px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
+<img align="left" alt="NodeJS" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
@@ -50,17 +51,20 @@
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
 <img align="left" alt="npm" width="40px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
-<img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
-<img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
+<img align="left" alt="MongoDB" width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+<img align="left" alt="ExpressJS" width="40px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
 <img align="left" alt="firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="mysql" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
+<img align="left" alt="sequelize orm" width="35px" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" />
 <img align="left" alt="figma" width="40px" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" />
 <img align="left" alt="heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" alt="netlify" width="40px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
 <img align="left" alt="figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-<img align="left" alt="figma" width="40px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
-<img align="left" alt="figma" width="40px" src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" />
-<img align="left" alt="figma" width="40px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/codesandbox.svg" />
+<img align="left" alt="prettier" width="35px" src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" />
+<img align="left" alt="eslint" width="35px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" />
+<img align="left" alt="Stack Overflow" width="40px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
+<img align="left" alt="Codepen" width="40px" src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" />
+<img align="left" alt="Codesandbox" width="40px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/codesandbox.svg" />
 <br />
 <br />
 

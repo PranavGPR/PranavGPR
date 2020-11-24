@@ -65,7 +65,6 @@
 <img align="left" alt="figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt="prettier" width="35px" src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" />
 <img align="left" alt="eslint" width="35px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" />
-<img align="left" alt="Codepen" width="40px" src="https://www.vectorlogo.zone/logos/codepen/codepen-icon.svg" />
 <img align="left" alt="Codesandbox" width="40px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/codesandbox.svg" />
 <br />
 <br />

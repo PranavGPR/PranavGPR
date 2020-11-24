@@ -53,11 +53,7 @@
 ### Tools and other stuffs
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="npm" width="40px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
-<img align="left" alt="MongoDB" width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 <img align="left" alt="ExpressJS" width="40px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
-<img align="left" alt="firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt="mysql" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
-<img align="left" alt="postgresql" width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
 <img align="left" alt="sequelize orm" width="35px" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" />
 <img align="left" alt="figma" width="40px" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" />
 <img align="left" alt="heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
@@ -68,8 +64,16 @@
 <img align="left" alt="Codesandbox" width="40px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/codesandbox.svg" />
 <br />
 <br />
+<hr />
 
-***
+### Databases
+<img align="left" alt="MongoDB" width="40px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
+<img align="left" alt="firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt="mysql" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
+<img align="left" alt="postgresql" width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
+<br />
+<br />
+<hr />
 
 <a href="#stats">
 <img align="center" src="https://github-readme-stats-git-master.pranavgpr.vercel.app/api?username=PranavGPR&show_icons=true&theme=tokyonight" />

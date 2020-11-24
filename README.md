@@ -38,6 +38,7 @@
 <img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TS" width="40px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
 <img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img align="left" alt="Apollo" width="40px" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" />
 <img align="left" alt="NextJS" width="35px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
 <img align="left" alt="NodeJS" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <img align="left" alt="GraphQL" width="35px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />

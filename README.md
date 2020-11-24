@@ -58,6 +58,7 @@
 <img align="left" alt="ExpressJS" width="40px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
 <img align="left" alt="firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="mysql" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
+<img align="left" alt="postgresql" width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
 <img align="left" alt="sequelize orm" width="35px" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" />
 <img align="left" alt="figma" width="40px" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" />
 <img align="left" alt="heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />

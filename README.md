@@ -6,9 +6,8 @@
 
   <img align="right" alt="GIF" src="https://github.com/PranavGPR/PranavGPR/blob/master/code.gif?raw=true" width="500" height="320" />
   
- - 🔭 I’m currently looking for some interesting projects to work!<br>
+ - 🔭 Currently looking for some interesting projects to work!<br>
  - 🌱 Currently learning Next.js<br>
- - 😁 Love to Cook and Code 👨🏻‍💻 <br>
  - 🤔 Looking for help with career 🏢<br>
  - 👯 Looking to collaborate on Open Source Projects 💖<br>
  - 😜 Pronouns: He/ Him<br>

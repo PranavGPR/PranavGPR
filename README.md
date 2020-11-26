@@ -84,7 +84,7 @@
 <br />
 <br />
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=PranavGPR.PranavGPR)
+### Visitors: ![Visitors](https://visitor-badge.glitch.me/badge?page_id=PranavGPR.PranavGPR)
 
 [LinkedIn]: https://www.linkedin.com/in/pranav-g-7122111b5/
 [twitter]: https://twitter.com/pranav_gpr

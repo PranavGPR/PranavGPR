@@ -6,12 +6,14 @@
 
   <img align="right" alt="GIF" src="https://github.com/PranavGPR/PranavGPR/blob/master/code.gif?raw=true" width="500" height="320" />
   
- - 🔭 Currently looking for some interesting projects to work!<br>
- - 🌱 Currently learning Next.js<br>
- - 🤔 Looking for help with career 🏢<br>
- - 👯 Looking to collaborate on Open Source Projects 💖<br>
- - 😜 Pronouns: He/ Him<br>
+ - 🔭 Currently looking for some interesting projects to work!
+ - 🌱 Currently learning Next.js
+ - 🤔 Looking for help with career 🏢
+ - 💬 Ask me about anything! 🤗
+ - 👯 Looking to collaborate on Open Source Projects 💖
+ - 😜 Pronouns: He/ Him
  - 💭 Ask me anything: [Through Email](mailto:pranav.gnanasekar23@gmail.com "Mail to Pranav")
+ - ⚡ Fun Fact: 📲 Check my twitter for daily Fun Facts!
 
  ```javascript
  

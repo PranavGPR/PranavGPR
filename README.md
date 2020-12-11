@@ -12,7 +12,7 @@
  - 💬 Ask me about anything! 🤗
  - 👯 Looking to collaborate on Open Source Projects 💖
  - 😜 Pronouns: He/ Him
- - 💭 Ask me anything: [Through Email](mailto:pranav.gnanasekar23@gmail.com "Mail to Pranav")
+ - 💭 Ask me anything: [Email Me!](mailto:pranav.gnanasekar23@gmail.com "Mail to Pranav")
  - ⚡ Fun Fact: 📲 Check my twitter for daily Fun Facts!
 
  ```javascript

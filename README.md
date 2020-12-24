@@ -76,9 +76,7 @@
 <br />
 <hr />
 
-<a href="#stats">
 <img align="center" src="https://github-readme-stats-git-master.pranavgpr.vercel.app/api?username=PranavGPR&show_icons=true&theme=tokyonight" />
-</a>
 <br />
 <br />
 

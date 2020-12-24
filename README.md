@@ -79,14 +79,9 @@
 <a href="#stats">
 <img align="center" src="https://github-readme-stats-git-master.pranavgpr.vercel.app/api?username=PranavGPR&show_icons=true&theme=tokyonight" />
 </a>
-<br />
-<br />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavGPR&layout=compact)](https://github.com/PranavGPR/github-readme-stats)
 <br />
 <br />
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=PranavGPR.PranavGPR)
 
 [LinkedIn]: https://www.linkedin.com/in/pranav-g-7122111b5/
 [twitter]: https://twitter.com/pranav_gpr

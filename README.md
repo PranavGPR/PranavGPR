@@ -4,10 +4,10 @@
 
 ### Web Developer and Programmer 👨🏻‍💻
 
-  <img align="right" alt="GIF" src="https://github.com/PranavGPR/PranavGPR/blob/master/code.gif?raw=true" width="450" height="300" />
+<img align="right" alt="GIF" src="https://github.com/PranavGPR/PranavGPR/blob/master/code.gif?raw=true" width="450" height="300" />
   
- - 🔭 Currently looking for some interesting projects to work!
- - 🌱 Currently learning Next.js
+ - 🔭 Looking for some interesting projects to work!
+ - 🌱 Currently learning React Native
  - 🤔 Looking for help with career 🏢
  - 💬 Ask me about anything! 🤗
  - 👯 Looking to collaborate on Open Source Projects 💖

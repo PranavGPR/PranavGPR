@@ -76,9 +76,14 @@
 <br />
 <hr />
 
-<img align="center" src="https://github-readme-stats-git-master.pranavgpr.vercel.app/api?username=PranavGPR&show_icons=true&theme=tokyonight" />
-<br />
-<br />
+### Stats
+<a href="#stats">
+<img align="center" alt="PranavGPR's Github Stats" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=PranavGPR&show_icons=true&count_private=true&theme=tokyonight" />
+</a>
+
+<a href="#stats">
+<img align="center" alt="PranavGPR's top languages" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=PranavGPR&layout=compact&langs_count=8&theme=tokyonight" />
+</a>
 
 [LinkedIn]: https://www.linkedin.com/in/pranav-g-7122111b5/
 [twitter]: https://twitter.com/pranav_gpr

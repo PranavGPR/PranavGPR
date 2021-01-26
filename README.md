@@ -85,5 +85,5 @@
 </a>
 
 [LinkedIn]: https://www.linkedin.com/in/pranav-g-7122111b5/
-[twitter]: https://twitter.com/pranav_gpr
+[twitter]: https://twitter.com/pranavgpr
 [Instagram]: https://instagram.com/i_m_mystrix

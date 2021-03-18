@@ -13,7 +13,7 @@
  - 👯 Looking to collaborate on Open Source Projects 💖
  - 😜 Pronouns: He/ Him
  - 💭 Ask me anything: [Email Me!](mailto:pranav.gnanasekar23@gmail.com "Mail to Pranav")
- - ⚡ Fun Fact: 📲 Check my twitter for daily Fun Facts!
+ - ⚡ Fun Fact: 📲 Check my Twitter for daily Fun Facts!
 
  ```javascript
  while (alive) {

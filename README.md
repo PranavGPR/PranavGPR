@@ -76,13 +76,15 @@
 <hr />
 
 ### Stats
-<a href="#stats">
-<img align="center" alt="PranavGPR's Github Stats" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=PranavGPR&show_icons=true&count_private=true&theme=tokyonight" />
-</a>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavgpr&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="contributions" />
+</p>
 
-<a href="#stats">
-<img align="center" alt="PranavGPR's top languages" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=PranavGPR&layout=compact&langs_count=8&theme=tokyonight" />
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=pranavgpr&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=onedark&no-bg=true&no-frame=true" alt="trophies" />
 </a>
+</p>
 
 [LinkedIn]: https://www.linkedin.com/in/pranav-g-7122111b5/
 [twitter]: https://twitter.com/pranavgpr

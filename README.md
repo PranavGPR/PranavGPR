@@ -50,7 +50,6 @@
 
 ### Tools and other stuffs
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="github" width="35px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
 <img align="left" alt="npm" width="40px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
 <img align="left" alt="ExpressJS" width="40px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
 <img align="left" alt="sequelize orm" width="35px" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" />
@@ -59,7 +58,6 @@
 <img align="left" alt="netlify" width="40px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
 <img align="left" alt="figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 <img align="left" alt="prettier" width="35px" src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" />
-<img align="left" alt="eslint" width="35px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" />
 <img align="left" alt="Codesandbox" width="40px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/codesandbox.svg" />
 <br />
 <br />

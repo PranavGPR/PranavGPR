@@ -2,7 +2,7 @@
 
 # I'm Pranav!
 
-### Web Developer and Programmer 👨🏻‍💻
+### Full Stack Developer 👨🏻‍💻
 
 <img align="right" alt="GIF" src="https://github.com/PranavGPR/PranavGPR/blob/master/code.gif?raw=true" width="450" height="300" />
   

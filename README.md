@@ -34,9 +34,11 @@
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="40px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" />
+<img align="left" alt="styled-components" width="40px" src="https://avatars2.githubusercontent.com/u/20658825?s=200&v=4" />
 <img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TS" width="40px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
 <img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img align="left" alt="React" width="40px" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/redux.svg" />
 <img align="left" alt="NextJS" width="35px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
 <img align="left" alt="NodeJS" width="40px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <img align="left" alt="ExpressJS" width="40px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
@@ -44,13 +46,17 @@
 <img align="left" alt="GraphQL" width="35px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
 <img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-<img align="left" alt="Java" width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+<img align="left" alt="C++" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 <br />
+<br />
+<br />
+<img align="left" alt="Java" width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <br />
 <hr />
 
 ### Tools and other stuffs
 <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
 <img align="left" alt="npm" width="40px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
 <img align="left" alt="sequelize orm" width="35px" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" />
 <img align="left" alt="heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />

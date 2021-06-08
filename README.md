@@ -29,6 +29,7 @@
 
 [<img height="30" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instagram] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/PORTFOLIO-blueviolet?style=for-the-badge&logo=appveyor" />][Portfolio]
 
 ### Languages and Libraries
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -88,3 +89,4 @@
 
 [LinkedIn]: https://www.linkedin.com/in/pranav-g-7122111b5/
 [Instagram]: https://instagram.com/pranavgpr
+[Portfolio]: https://realgpr.tech

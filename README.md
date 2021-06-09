@@ -8,18 +8,15 @@
   
  - 🔭 Looking for some interesting projects to work!
  - 🌱 Learning Node.js and other backend stuffs
- - 🤔 Looking for help with career 🏢
- - 💬 Ask me about anything! 🤗
  - 👯 Looking to collaborate on Open Source Projects 💖
  - 😜 Pronouns: He/ Him
- - 💭 Ask me anything: [Email Me!](mailto:pranav.gnanasekar23@gmail.com "Mail to Pranav")
- - ⚡ Fun Fact: 📲 Check my Twitter for daily Fun Facts!
+ - 💭 Ask me anything: [Email Me! 🤗](mailto:pranav.gnanasekar23@gmail.com "Mail to Pranav")
 
  ```javascript
  while (alive) {
    eat ()
-   sleep ()
    code ()
+   sleep ()
  }
  ```
  

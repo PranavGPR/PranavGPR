@@ -52,6 +52,7 @@
 <img align="left" alt="Java" width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 </div>
 <br />
+<br />
 <hr />
 
 ### Tools and other stuffs

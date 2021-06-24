@@ -10,7 +10,7 @@
  - 🌱 Learning Node.js and other backend stuffs
  - 👯 Looking to collaborate on Open Source Projects 💖
  - 😜 Pronouns: He/ Him
- - 💭 Ask me anything: [Email Me! 🤗](mailto:pranav.gnanasekar23@gmail.com "Mail to Pranav")
+ - 💭 Ask me anything: [Email Me!🤗](mailto:pranav.gnanasekar23@gmail.com "Mail to Pranav")
 
  ```javascript
  while (alive) {
@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pranavgpr&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit&theme=nord&no-bg=true&no-frame=true&column=3" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=pranavgpr&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit,Repo&theme=nord&no-bg=true&no-frame=true&column=3" alt="trophies" />
 </p>
 
 [LinkedIn]: https://www.linkedin.com/in/pranav-g-7122111b5/

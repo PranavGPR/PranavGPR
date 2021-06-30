@@ -22,11 +22,28 @@
  
  ***
 
+ <br>
+
 ### Follow me on
 
 [<img height="30" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instagram] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/PORTFOLIO-blueviolet?style=for-the-badge&logo=appveyor" />][Portfolio]
+
+***
+
+### Achievements & Details
+
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavgpr&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="contributions" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pranavgpr&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit,Repo&theme=nord&no-bg=true&no-frame=true&column=3" alt="trophies" />
+</p>
+
+<hr />
+<br>
 
 <details align="left">
   <summary>
@@ -89,13 +106,7 @@
   </details>
 </details>
 
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavgpr&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="contributions" />
-</p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pranavgpr&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit,Repo&theme=nord&no-bg=true&no-frame=true&column=3" alt="trophies" />
-</p>
 
 [LinkedIn]: https://www.linkedin.com/in/pranav-g-7122111b5/
 [Instagram]: https://instagram.com/pranavgpr

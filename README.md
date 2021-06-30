@@ -19,12 +19,9 @@
    sleep ()
  }
  ```
- 
  ***
 
- <br>
-
-### Follow me on
+### Contact me through
 
 [<img height="30" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][Instagram] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
@@ -43,7 +40,6 @@
 </p>
 
 <hr />
-<br>
 
 <details align="left">
   <summary>
@@ -99,9 +95,6 @@
       <img align="left" title="Oracle" alt="oracle" width="40px" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" />
       <img align="left" title="MySQL" alt="mysql" width="40px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
       <img align="left" title="PostgreSQL" alt="postgresql" width="40px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
-      <br />
-      <br />
-      <hr />
     </details>
   </details>
 </details>

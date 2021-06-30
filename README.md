@@ -56,7 +56,6 @@
 <hr />
 
 ### Tools and other stuffs
-<img align="left" title="Jest" alt="Jest" width="40px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
 <img align="left" title="Git" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" title="Github" alt="github" width="40px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
 <img align="left" title="NPM" alt="npm" width="40px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
@@ -64,8 +63,7 @@
 <img align="left" title="Heroku" alt="heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" title="Netlify" alt="netlify" width="40px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
 <img align="left" title="Figma" alt="figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-<img align="left" title="Prettier" alt="prettier" width="35px" src="https://cdn.worldvectorlogo.com/logos/prettier-2.svg" />
-<img align="left" title="Codesandbox" alt="Codesandbox" width="40px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/codesandbox.svg" />
+<img align="left" title="Jest" alt="Jest" width="40px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
 <br />
 <br />
 <hr />

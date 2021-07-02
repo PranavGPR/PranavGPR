@@ -4,7 +4,7 @@
 
 ### Full Stack Developer 👨🏻‍💻
 
-<img align="right" alt="GIF" src="https://github.com/PranavGPR/PranavGPR/blob/main/code.gif?raw=true" width="450" height="300" />
+<img align="right" alt="GIF" src="https://github.com/PranavGPR/PranavGPR/blob/main/code.gif?raw=true" width="400" height="250" />
   
  - 🔭 Looking for some interesting projects to work!
  - 🌱 Learning Node.js and other backend stuffs

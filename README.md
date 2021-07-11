@@ -41,7 +41,7 @@
 
 <hr />
 
-<details align="left">
+<details align="center">
   <summary>
     <h3 style="display: inline;">Languages and Libraries</h3>
   </summary>
@@ -71,7 +71,7 @@
   <br />
   <hr />
 
-  <details align="left">
+  <details align="center">
     <summary>
       <h3 style="display: inline;">Tools and other stuffs</h3>
     </summary>
@@ -86,7 +86,7 @@
     <br />
     <br />
     <hr />
-    <details align="left">
+    <details align="center">
       <summary>
         <h3 style="display: inline;">Databases I Use</h3>
       </summary>

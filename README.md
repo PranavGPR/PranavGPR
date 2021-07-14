@@ -7,7 +7,6 @@
 <img align="right" alt="GIF" src="https://github.com/PranavGPR/PranavGPR/blob/main/code.gif?raw=true" width="400" height="250" />
   
  - 🔭 Looking for some interesting projects to work!
- - 🌱 Learning Node.js and other backend stuffs
  - 👯 Looking to collaborate on Open Source Projects 💖
  - 😜 Pronouns: He/ Him
  - 💭 Ask me anything: [Email Me!🤗](mailto:pranav.gnanasekar23@gmail.com "Mail to Pranav")

@@ -9,7 +9,6 @@
  - 🔭 Looking for some interesting projects to work!
  - 👯 Looking to collaborate on Open Source Projects 💖
  - 😜 Pronouns: He/ Him
- - 💭 Ask me anything: [Email Me!🤗](mailto:pranav.gnanasekar23@gmail.com "Mail to Pranav")
 
  ```javascript
  while (alive) {

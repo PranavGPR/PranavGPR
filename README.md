@@ -60,6 +60,7 @@
   <img align="left" title="Express" alt="ExpressJS" width="40px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />
   <img align="left" title="Apollo Client" alt="Apollo" width="40px" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" />
   <img align="left" title="GraphQL" alt="GraphQL" width="35px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
+  <img align="left" title="Socket.io" alt="Socket.io" width="40px" src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" />
   <img align="left" title="Python" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
   <br />
   <br />

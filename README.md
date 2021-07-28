@@ -61,14 +61,14 @@
   <img align="left" title="Apollo Client" alt="Apollo" width="40px" src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" />
   <img align="left" title="GraphQL" alt="GraphQL" width="35px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
   <img align="left" title="Socket.io" alt="Socket.io" width="40px" src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" />
-  <img align="left" title="Python" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
   <br />
   <br />
   <br />
   <div>
-  <img align="left" title="C" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
-  <img align="left" title="C++" alt="C++" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
-  <img align="left" title="Java" alt="Java" width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+    <img align="left" title="Python" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+    <img align="left" title="C" alt="C" width="40px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+    <img align="left" title="C++" alt="C++" width="40px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
+    <img align="left" title="Java" alt="Java" width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
   </div>
   <br />
   <br />

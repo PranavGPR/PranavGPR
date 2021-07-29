@@ -30,7 +30,7 @@
 ### Achievements & Details
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavgpr&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5" alt="contributions" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavgpr&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true" alt="contributions" />
 </p>
 
 <p align="center">

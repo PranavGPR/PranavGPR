@@ -81,7 +81,7 @@
     <img align="left" title="Git" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
     <img align="left" title="Github" alt="github" width="40px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
     <img align="left" title="NPM" alt="npm" width="40px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
-    <img align="left" title="Sequalize" alt="sequelize orm" width="35px" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" />
+    <img align="left" title="Sequalize" alt="sequelize orm" width="35px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" />
     <img align="left" title="Heroku" alt="heroku" width="40px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
     <img align="left" title="Netlify" alt="netlify" width="40px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
     <img align="left" title="Figma" alt="figma" width="40px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />

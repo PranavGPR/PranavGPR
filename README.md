@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pranavgpr&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit,Repo&theme=nord&no-bg=true&no-frame=true&column=3" alt="trophies" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=pranavgpr&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit,Repo&theme=nord&no-bg=true&no-frame=true&column=4" alt="trophies" />
 </p>
 
 <p align="center">

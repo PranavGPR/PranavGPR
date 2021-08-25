@@ -6,7 +6,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/PranavGPR/PranavGPR/blob/main/code.gif?raw=true" width="400" height="250" />
   
- - 🔭 Looking for some interesting projects to work!
+ - 🔭 Searching for some interesting project ideas to work!
  - 👯 Looking to collaborate on Open Source Projects 💖
  - 😜 Pronouns: He/ Him
 

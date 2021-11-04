@@ -36,9 +36,9 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=pranavgpr&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit,Repo&theme=nord&no-bg=true&no-frame=true&column=4" alt="trophies" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=PranavGPR&theme=react-dark&hide_border=true&area=true" alt="Monthly coding activity graph" />
-</p>
+</p> -->
 
 <hr />
 

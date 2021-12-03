@@ -2,9 +2,9 @@
 
 # I'm Pranav!
 
-### Full Stack Developer
-
 <img align="right" alt="GIF" src="https://github.com/PranavGPR/PranavGPR/blob/main/code.gif?raw=true" width="400" height="250" />
+
+### Full Stack Developer
   
  - 🔭 Searching for some interesting project ideas to work!
  - 👯 Looking to collaborate on Open Source Projects 💖
@@ -17,7 +17,7 @@
    sleep ()
  }
  ```
- ***
+ <br />
 
 ### Contact me through
 
@@ -35,6 +35,11 @@
 <p align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=pranavgpr&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit,Repo&theme=nord&no-bg=true&no-frame=true&column=4" alt="trophies" />
 </p>
+
+<p align="center">
+  <a href="https://app.daily.dev/PranavGPR"><img src="https://api.daily.dev/devcards/46db827d208a45a38156a4d9efb33f2e.png?r=1nh" width="250" alt="Pranav's Dev Card"/></a>
+</p>
+
 
 <!-- <p align="center">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=PranavGPR&theme=react-dark&hide_border=true&area=true" alt="Monthly coding activity graph" />

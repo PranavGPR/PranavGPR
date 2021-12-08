@@ -36,14 +36,10 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=pranavgpr&title=Issues,Followers,PullRequest,MultipleLang,Stars,Commit,Repo&theme=nord&no-bg=true&no-frame=true&column=4" alt="trophies" />
 </p>
 
+
 <p align="center">
-  <a href="https://app.daily.dev/PranavGPR"><img src="https://api.daily.dev/devcards/46db827d208a45a38156a4d9efb33f2e.png?r=1nh" width="250" alt="Pranav's Dev Card"/></a>
-</p>
-
-
-<!-- <p align="center">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=PranavGPR&theme=react-dark&hide_border=true&area=true" alt="Monthly coding activity graph" />
-</p> -->
+</p>
 
 <hr />
 

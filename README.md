@@ -17,15 +17,17 @@
    sleep ()
  }
  ```
- <br />
 
 <h3 align="center">Contact me through</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/pranav-g-7122111b5/" />
-      <img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img height="35" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://realgpr.tech" />
-      <img height="30" src="https://img.shields.io/badge/PORTFOLIO-blueviolet?style=for-the-badge&logo=appveyor" />
+      <img height="35" src="https://img.shields.io/badge/PORTFOLIO-blueviolet?style=for-the-badge&logo=appveyor" />
+  </a>
+  <a href="https://twitter.com/PranavG95593451">
+      <img height="35" src="https://img.shields.io/badge/TWITTER-informational?style=for-the-badge&logo=twitter" />
   </a>
 </p>
 

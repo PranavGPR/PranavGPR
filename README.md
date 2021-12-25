@@ -19,15 +19,20 @@
  ```
  <br />
 
-### Contact me through
-
-[<img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://img.shields.io/badge/PORTFOLIO-blueviolet?style=for-the-badge&logo=appveyor" />][Portfolio]
+<h3 align="center">Contact me through</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranav-g-7122111b5/" />
+      <img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://realgpr.tech" />
+      <img height="30" src="https://img.shields.io/badge/PORTFOLIO-blueviolet?style=for-the-badge&logo=appveyor" />
+  </a>
+</p>
 
 ***
 
-### Achievements & Details
-
+<h3 align="center">Achievements & Details</h3>
+<br />
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavgpr&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true" alt="contributions" />
 </p>
@@ -101,8 +106,3 @@
     </details>
   </details>
 </details>
-
-
-
-[LinkedIn]: https://www.linkedin.com/in/pranav-g-7122111b5/
-[Portfolio]: https://realgpr.tech

@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/pranav-g-7122111b5/" />
       <img height="35" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://realgpr.tech" />
+  <a href="https://realgpr.me" />
       <img height="35" src="https://img.shields.io/badge/PORTFOLIO-blueviolet?style=for-the-badge&logo=appveyor" />
   </a>
   <a href="https://twitter.com/PranavG95593451">

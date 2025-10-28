@@ -8,7 +8,6 @@
   
  - 🔭 Searching for some interesting project ideas to work!
  - 👯 Looking to collaborate on Open Source Projects 💖
- - 😜 Pronouns: He/ Him
 
  ```javascript
  while (alive) {
@@ -33,7 +32,7 @@
 
 ***
 
-<h3 align="center">Achievements & Details</h3>
+<!-- <h3 align="center">Achievements & Details</h3>
 <br />
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavgpr&theme=tokyonight&ring=15f4ee&fire=15f4ee&currStreakNum=a35eff&currStreakLabel=a35eff&sideLabels=4296f5&sideNums=4296f5&hide_border=true" alt="contributions" />
@@ -46,9 +45,9 @@
 
 <p align="center">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=PranavGPR&theme=react-dark&hide_border=true&area=true" alt="Monthly coding activity graph" />
-</p>
+</p> -->
 
-<hr />
+<!-- <hr /> -->
 
 <details align="center">
   <summary>
